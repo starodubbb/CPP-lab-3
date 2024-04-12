@@ -1,19 +1,3 @@
-//#include "class_hello.h"
-//
-//using namespace std;
-//
-//hello::hello()
-//{
-//}
-//
-//void hello::print_hello() {
-//	cout << "Hello world" << endl;
-//}
-//
-//int hello::sum(const int& a, const int& b) {
-//	return a + b;
-//}
-
 #include "class_mylib.h"
 
 using namespace std;
